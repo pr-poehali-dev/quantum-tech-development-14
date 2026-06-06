@@ -172,7 +172,7 @@ export default function Index() {
             <div className="mb-5 inline-block animate-in fade-in slide-in-from-bottom-4 rounded-full border border-foreground/20 bg-foreground/15 px-4 py-1.5 backdrop-blur-md duration-700">
               <p className="font-mono text-xs text-foreground/90">🦊 Молодёжный кофейный бренд</p>
             </div>
-            <h1 className="mb-6 animate-in fade-in slide-in-from-bottom-8 font-sans text-7xl font-light leading-[1.05] tracking-tight text-foreground duration-1000 xl:text-8xl 2xl:text-9xl">
+            <h1 className="mb-6 animate-in fade-in slide-in-from-bottom-8 font-sans text-7xl leading-[1.05] tracking-tight text-foreground duration-1000 xl:text-8xl 2xl:text-9xl font-thin">
               Fox Coffee
             </h1>
             <p className="mb-10 max-w-xl animate-in fade-in slide-in-from-bottom-4 text-xl leading-relaxed text-foreground/90 duration-1000 delay-200">
