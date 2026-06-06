@@ -37,7 +37,7 @@ export function WorkSection() {
   return (
     <section
       ref={ref}
-      className="relative flex h-screen w-screen shrink-0 snap-start items-center px-6 pt-20 md:px-12 md:pt-0 lg:px-16 overflow-hidden"
+      className="relative flex w-full items-start overflow-hidden"
     >
       {/* паттерн сбоку */}
       <div
